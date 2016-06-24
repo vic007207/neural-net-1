@@ -1,5 +1,5 @@
 import numpy as np
-#credit http://neuralnetworksanddeeplearning.com/chap1.html
+#credit http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 def nonlin(x,deriv=False):
 	if(deriv==True):
